@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
+         <titleStmt><title type="main">The Adventure of the Norwood Builder</title><author>Arthur Conan Doyle</author></titleStmt>
          <seriesStmt><title>DH Summerschool - Antwerp 2025</title></seriesStmt>
          <sourceDesc>
-            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+            <bibl><title type="main">The Adventure of the Norwood Builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -55,7 +55,7 @@
                <l facs="#facs_29_tr_1_tl_9" n="N009">McFarlanc turned to us with a gesture of despair,</l>
                <l facs="#facs_29_tr_1_tl_10" n="N010">and sank into his chair once more like <del>a man</del><add> one</add> who is crushed.</l>
                <l facs="#facs_29_tr_1_tl_11" n="N011">"One moment, Lestrade" said Holmes "Half an</l>
-               <l facs="#facs_29_tr_1_tl_12" n="N012">hour more or less can make no difference to you, and <blackening>is</blackening> the</l>
+               <l facs="#facs_29_tr_1_tl_12" n="N012">hour more or less can make no difference to you, and <del>is</del> the</l>
                <l facs="#facs_29_tr_1_tl_13" n="N013">gentleman was about to give us an account of this very</l>
                <l facs="#facs_29_tr_1_tl_14" n="N014">interesting affair which might aid us in clearing it up"</l>
                <l facs="#facs_29_tr_1_tl_15" n="N015">"I think there will be no difficulty in clearing it up"</l>
